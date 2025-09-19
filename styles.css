@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+input {
+	width:100%;
+	
+}
+span {
+	color:#247CFF;
+}
+#submit {
+	background-color:#247CFF;
+	border:none;
+	border-radius:3px;
+	padding:4px;
+	margin:2px;
+}
+table {
+	width:100%;
+}
